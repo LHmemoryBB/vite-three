@@ -1,0 +1,31 @@
+{
+  "name": "vite-three",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tresjs/cientos": "^3.9.0",
+    "@tresjs/core": "^3.9.0",
+    "@tweakpane/plugin-essentials": "^0.2.1",
+    "axios": "^1.7.7",
+    "dayjs": "^1.11.13",
+    "element-plus": "^2.8.3",
+    "pinia": "^2.2.2",
+    "sass": "^1.79.3",
+    "sass-loader": "^16.0.2",
+    "three": "^0.168.0",
+    "tweakpane": "^4.0.3",
+    "v-tweakpane": "^0.3.2",
+    "vue": "^3.4.37",
+    "vue-router": "^4.4.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "vite": "^5.4.1"
+  }
+}
